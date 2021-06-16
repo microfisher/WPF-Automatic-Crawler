@@ -3,3 +3,12 @@
 
 ![自动化采集爬虫](
 https://raw.githubusercontent.com/microfisher/WPF-Automatic-Crawler/main/自动化采集爬虫.png)
+
+![自动化采集爬虫](
+https://raw.githubusercontent.com/microfisher/WPF-Automatic-Crawler/main/自动登录.png)
+
+![自动化采集爬虫](
+https://raw.githubusercontent.com/microfisher/WPF-Automatic-Crawler/main/上传队列.png)
+
+![自动化采集爬虫](
+https://raw.githubusercontent.com/microfisher/WPF-Automatic-Crawler/main/系统设置.png)
